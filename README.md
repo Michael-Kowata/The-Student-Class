@@ -1,1 +1,1 @@
-# S112 Kowata The Student Class
+# This program takes in data for 3 students regarding their name, ID number, and their grade. 
